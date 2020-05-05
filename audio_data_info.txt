@@ -1,0 +1,163 @@
+#AUDIO numbers.wav
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+twelve
+thirteen
+fourteen
+some
+few
+several
+
+#AUDIO Recording 1.wav
+Hello
+Good_afternoon
+Can_I_have one apple please
+Can_I_have two apples please
+Can_I_have one banana please
+Can_I_have two bananas please
+Can_I_have one lemon please
+Can_I_have
+#lemons
+#melon
+#melons
+#pear
+Can_I_have two pears please
+Can_I_have one peach please
+Can_I_have two peaches please
+Can_I_have one watermelon please
+Can_I_have two watermelons please
+Can_I_have one watermelon please
+Can_I_have one carrot please
+Can_I_have two carrots please
+Can_I_have one tomato please
+Can_I_have two tomatoes please
+Can_I_have one cucumber please
+Can_I_have two cucumbers please
+Can_I_have one potato please
+Can_I_have two potatoes please
+Can_I_have one plum please
+Can_I_have two plums please
+Can_I_have one bell_pepper please
+Can_I_have two bell_peppers please
+Can_I_have one chili_pepper please
+Can_I_have two chili_peppers please
+
+
+#AUDIO Recording 2.wav
+Sorry_could_you_add one more apple
+Sorry_could_you_add two more apples
+Sorry_could_you_add one more banana
+Sorry_could_you_add two more bananas
+Sorry_could_you_add one more lemon
+Sorry_could_you_add two more lemons
+Sorry_could_you_add one more melon
+Sorry_could_you_add two more melons
+Sorry_could_you_add one more pear
+Sorry_could_you_add two more pears
+Sorry_could_you_add one more peach
+Sorry_could_you_add two more peaches
+Sorry_could_you_add one more watermelon
+Sorry_could_you_add two more watermelons
+Sorry_could_you_add one more carrot
+Sorry_could_you_add two more carrots
+Sorry_could_you_add one more tomato
+Sorry_could_you_add two more tomatoes
+Sorry_could_you_add one more cucumber
+Sorry_could_you_add two more cucumbers
+Sorry_could_you_add one more potato
+Sorry_could_you_add two more potatoes
+Sorry_could_you_add one more plum
+Sorry_could_you_add two more plums
+Sorry_could_you_add one more bell_pepper
+Sorry_could_you_add two more bell_peppers
+Sorry_could_you_add one more chili_pepper
+Sorry_could_you_add two more chili_peppers
+
+
+#AUDIO Recording 3.wav
+This_doesn't_look_right
+Sorry_I_asked_apples, not melons
+Actually_can_you_remove one apple
+Actually_can_you_remove two apples
+
+
+#AUDIO Recording 4.wav
+apples
+bananas
+lemons
+melons
+pears
+peaches
+watermelons
+carrots
+tomatoes
+cucumbers
+potatoes
+plums
+bell_peppers
+chili_peppers
+
+
+#AUDIO Recording 5.wav
+apple
+apples
+banana
+bananas
+lemon
+lemons
+melon
+melons
+pear
+pears
+peach
+peaches
+watermelon
+watermelons
+carrot
+carrots
+tomato
+tomatoes
+cucumber
+cucumbers
+potato
+potatoes
+plum
+plums
+bell_pepper
+bell_peppers
+chili_pepper
+chili_peppers
+
+
+#AUDIO Recording 6.wav
+Wonderful
+Thank_you
+Thanks
+How_much_is_it
+How_much_is_it_in_total
+Here_you_go
+See_you
+Bye
+Have_a_great_day
+
+
+#AUDIO Recording 7.wav
+I_would_like one watermelon too
+I_would_like two watermelons too
+
+
+#AUDIO Fruit loop.wav
+Hey_what_do_you_think_you_are_doing_fruit_loop
+
+
+#AUDIO Nutz.wav
+Are_you_nuts_thats_painful
